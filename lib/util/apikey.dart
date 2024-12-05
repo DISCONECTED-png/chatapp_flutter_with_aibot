@@ -1,0 +1,1 @@
+const String gemapikey = "AIzaSyDULdJaQN-gYVvucBXDlldVbpFt-XIsjgo";
